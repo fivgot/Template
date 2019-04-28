@@ -15,14 +15,14 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.50788385">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+                <state relative-caret-position="174">
+                  <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
                 </state>
               </provider>
             </entry>
@@ -34,8 +34,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="248" column="23" selection-start-line="248" selection-start-column="23" selection-end-line="248" selection-end-column="23" />
+                <state relative-caret-position="391">
+                  <caret line="65" column="23" lean-forward="true" selection-end-line="277" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -51,8 +51,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Main-page.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -63,9 +63,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="422" />
-    <option name="y" value="114" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="378" />
+    <option name="y" value="524" />
     <option name="width" value="1406" />
     <option name="height" value="742" />
   </component>
@@ -164,18 +164,18 @@
       <workItem from="1555068233027" duration="3435000" />
       <workItem from="1556218326838" duration="6447000" />
       <workItem from="1556468938025" duration="99000" />
-      <workItem from="1556469328968" duration="5635000" />
+      <workItem from="1556469328968" duration="10790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15616000" />
+    <option name="totallyTimeSpent" value="20771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="718" y="127" width="1406" height="742" extended-state="0" />
+    <frame x="415" y="162" width="1406" height="742" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09309309" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09534535" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -231,17 +231,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/../../Template/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        <state relative-caret-position="301">
+          <caret line="231" lean-forward="true" selection-start-line="231" selection-end-line="236" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="248" column="23" selection-start-line="248" selection-start-column="23" selection-end-line="248" selection-end-column="23" />
+        <state relative-caret-position="391">
+          <caret line="65" column="23" lean-forward="true" selection-end-line="277" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
