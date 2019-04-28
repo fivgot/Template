@@ -21,12 +21,12 @@ body {
         display: inline-block;
         width: auto;
         height: auto;
-        margin-left: 24%;
+        margin-left: 26%;
         margin-right: 0;
         padding: 0;
         overflow: hidden;
         background-color: transparent;
-        max-width: 10%;
+        max-width: 30%;
         max-height: 4em;
     }
 }
@@ -53,7 +53,7 @@ body {
         font-size: 15px;
         color: white;
         border: none;
-        padding-top: 8px;
+        padding-top: 5px;
         display: block;
         font-family: "sans-serif", helvetica;
         font-weight: bold;
@@ -66,7 +66,7 @@ body {
         font-size: 3px;
         color: white;
         border: none;
-        padding-top: 5px;
+        padding-top: 2px;
         display: block;
         font-family: "sans-serif", helvetica;
         font-weight: bold;
@@ -78,6 +78,7 @@ body {
     width: 100%;
     max-height: 600px;
     background-color: #000000d4;
+    display: block;
 }
 .main-area {
     padding: 20px;
@@ -226,10 +227,31 @@ body {
 }
 
 #lia:hover {
-    background-color: #ff1326;
+    background-color: #fff8f5;
 }
-
-.header-text {
+.head-text {
     position: absolute;
-    transform: translate(-50%, -50%)
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    color: white;
+}
+.head-subtext {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    font-family: helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+.containter {
+    width: 100%;
+    max-height: 600px;
+    background-color: #000000d4;
+    display: inline-block;
+    position: relative;
 }
